@@ -5,9 +5,6 @@ This project provides an advanced, modular, and efficient Streamlit application 
 
 ## 🛠️ Tech Stack
 Frontend: Streamlit   
-
 Backend: LangChain, Groq Generative AI   
-
 Embeddings: Hugging Face sentence-transformers 
-
 Vector Store: FAISS (Facebook AI Similarity Search)      
